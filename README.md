@@ -1,5 +1,7 @@
 Rutgers Coding Bootcamp
+
 Nicholas La Monaco
+
 6/10/2020
 
 Week 2 Homework: Bootstrap CSS Assignment
